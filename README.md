@@ -1,6 +1,7 @@
-# IsirestClient
+# ISIREST client
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.1.
+This is the frontend app for restisi JAX-RS API
 
 ## Development server
 
